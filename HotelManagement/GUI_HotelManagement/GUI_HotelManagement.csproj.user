@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="bookingForm\Booking_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingForm\Edit_Resevation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingForm\Reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Check_in\Check_inForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Check_in\NoticeCheck_inForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Check_out\checkoutBill_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Check_out\Checkout_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Check_out\damagedItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Check_out\Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingForm\CustomerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\Dashboard_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\login_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\Main_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Discount\addDiscountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Discount\Discount_PromotionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Items\List_Of_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Room\DetailRoom_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Room\MultiRoom_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Room\Room_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rules\addRuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rules\RulesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServiceBooking\ServiceCoupon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServiceBooking\ServiceOfRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServiceBooking\Services4Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServiceBooking\TourBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Service\addServiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Service\ServiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingForm\WaitingCustomerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,60 @@
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.deps.json
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.csproj.AssemblyReference.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\refint\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\ref\DTO_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.deps.json
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.csproj.AssemblyReference.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.AssemblyInfoInputs.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.AssemblyInfo.cs
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.csproj.CoreCompileInputs.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\refint\DTO_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\ref\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.deps.json
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.csproj.AssemblyReference.cache
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\refint\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Vandap\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\ref\DTO_HotelManagement.dll
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.deps.json
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.dll
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.pdb
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.csproj.AssemblyReference.cache
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.AssemblyInfoInputs.cache
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.AssemblyInfo.cs
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.csproj.CoreCompileInputs.cache
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.dll
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\refint\DTO_HotelManagement.dll
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.pdb
+D:\Study\6. PTTK HTTT\Project\Final\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\ref\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.deps.json
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\bin\Debug\net6.0\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.csproj.AssemblyReference.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\refint\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\DTO_HotelManagement\obj\Debug\net6.0\ref\DTO_HotelManagement.dll

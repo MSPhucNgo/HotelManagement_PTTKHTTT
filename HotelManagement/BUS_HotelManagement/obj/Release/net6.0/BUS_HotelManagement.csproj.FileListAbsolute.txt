@@ -1,0 +1,71 @@
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.AssemblyReference.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.deps.json
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DAO_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DAO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.CopyComplete
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\refint\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\ref\BUS_HotelManagement.dll
+<<<<<<< HEAD
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.deps.json
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DAO_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DTO_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DAO_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DTO_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.AssemblyReference.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.AssemblyInfoInputs.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.AssemblyInfo.cs
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.CoreCompileInputs.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.CopyComplete
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\refint\BUS_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\ref\BUS_HotelManagement.dll
+=======
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.deps.json
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DAO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DAO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.AssemblyReference.cache
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.CopyComplete
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\refint\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\ref\BUS_HotelManagement.dll
+>>>>>>> origin/Phuc_Final
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.deps.json
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\BUS_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DAO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DAO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\bin\Release\net6.0\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.AssemblyReference.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.csproj.CopyComplete
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\refint\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\BUS_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\BUS_HotelManagement\obj\Release\net6.0\ref\BUS_HotelManagement.dll

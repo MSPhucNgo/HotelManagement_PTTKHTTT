@@ -1,0 +1,287 @@
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.exe
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.deps.json
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.runtimeconfig.json
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\AWSSDK.Core.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DnsClient.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Bson.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\SharpCompress.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\Snappier.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DAO_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\BUS_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DAO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.AssemblyReference.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.ResolveComReference.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Booking_Form.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Check_inForm.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.NoticeCheck_inForm.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.checkoutBill_Form.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Checkout_Form.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.damagedItems.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Check_out.Feedback.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Dashboard_GUI.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.login_GUI.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addDiscountForm.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Discount_PromotionForm.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.List_Of_Items.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Properties.Resources.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.DetailRoom_Form.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.MultiRoom_Form.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Room_Form.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addRuleForm.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.RulesForm.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Service_Coupon.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Service_Of_Room.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Services4Customer.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Tour_Booking.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addServiceForm.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.ServiceForm.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.GenerateResource.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.CopyComplete
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\refint\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.pdb
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.genruntimeconfig.cache
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\ref\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Dashboard.Main_Form.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Edit_Resevation.resources
+C:\Users\ADmin\Desktop\FINAL PLS!\hotelmanagement-tuyetanh1\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Reservation.resources
+<<<<<<< HEAD
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.exe
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.deps.json
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.runtimeconfig.json
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\AWSSDK.Core.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\AWSSDK.SecurityToken.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DnsClient.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Bson.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Driver.Core.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Libmongocrypt.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\SharpCompress.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\Snappier.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\ZstdSharp.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win\native\mongocrypt.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\BUS_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DAO_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DTO_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\BUS_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DTO_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DAO_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.AssemblyReference.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.ResolveComReference.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Booking_Form.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Edit_Resevation.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Reservation.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Check_inForm.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.NoticeCheck_inForm.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.checkoutBill_Form.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Checkout_Form.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.damagedItems.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Check_out.Feedback.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Dashboard_GUI.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.login_GUI.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Dashboard.Main_Form.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addDiscountForm.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Discount_PromotionForm.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.List_Of_Items.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Properties.Resources.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.DetailRoom_Form.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.MultiRoom_Form.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Room_Form.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addRuleForm.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.RulesForm.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Service_Coupon.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Service_Of_Room.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Services4Customer.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Tour_Booking.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addServiceForm.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.ServiceForm.resources
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.GenerateResource.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.AssemblyInfoInputs.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.AssemblyInfo.cs
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.CoreCompileInputs.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.CopyComplete
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\refint\GUI_HotelManagement.dll
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.pdb
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.genruntimeconfig.cache
+F:\source\hotel_tuyetanh1\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\ref\GUI_HotelManagement.dll
+=======
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.exe
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.deps.json
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.runtimeconfig.json
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\AWSSDK.Core.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DnsClient.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Bson.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\SharpCompress.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\Snappier.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DAO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\BUS_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DAO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.AssemblyReference.cache
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.ResolveComReference.cache
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Booking_Form.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Edit_Resevation.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Reservation.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Check_inForm.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.NoticeCheck_inForm.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.checkoutBill_Form.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Checkout_Form.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.damagedItems.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Check_out.Feedback.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Dashboard_GUI.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.login_GUI.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Dashboard.Main_Form.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addDiscountForm.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Discount_PromotionForm.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.List_Of_Items.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Properties.Resources.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.DetailRoom_Form.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.MultiRoom_Form.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Room_Form.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addRuleForm.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.RulesForm.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Service_Coupon.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Service_Of_Room.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Services4Customer.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Tour_Booking.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addServiceForm.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.ServiceForm.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.GenerateResource.cache
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.CopyComplete
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\refint\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.genruntimeconfig.cache
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\ref\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.CustomerList.resources
+C:\Users\ADmin\Desktop\Demo\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.WaitingCustomerList.resources
+>>>>>>> origin/Phuc_Final
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.exe
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.deps.json
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.runtimeconfig.json
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\GUI_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\AWSSDK.Core.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DnsClient.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Bson.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\SharpCompress.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\Snappier.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\BUS_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DAO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DTO_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\BUS_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DTO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\bin\Release\net6.0-windows\DAO_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.AssemblyReference.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.ResolveComReference.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Booking_Form.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.CustomerList.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Edit_Resevation.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Reservation.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.WaitingCustomerList.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Check_inForm.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.NoticeCheck_inForm.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.checkoutBill_Form.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Checkout_Form.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.damagedItems.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Check_out.Feedback.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Dashboard_GUI.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.login_GUI.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Dashboard.Main_Form.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addDiscountForm.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Discount_PromotionForm.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.List_Of_Items.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Properties.Resources.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.DetailRoom_Form.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.MultiRoom_Form.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.Room_Form.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addRuleForm.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.RulesForm.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Service_Coupon.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Service_Of_Room.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Services4Customer.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\HotelManagement.Tour_Booking.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.addServiceForm.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.ServiceForm.resources
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.GenerateResource.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.csproj.CopyComplete
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\refint\GUI_HotelManagement.dll
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.pdb
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\GUI_HotelManagement.genruntimeconfig.cache
+C:\Users\ADmin\Desktop\Final For PTTK\hotelmanagement\HotelManagement\GUI_HotelManagement\obj\Release\net6.0-windows\ref\GUI_HotelManagement.dll

@@ -1,1 +1,2 @@
-# HotelManagement_PTTKHTTT
+# hotelmanagement
+Application for managing tasks of receptionist at hotel such as  choosing room, creating bill, receipting service request, check in, check out, get information of tours of travel agency partner,...
